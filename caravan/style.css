@@ -78,14 +78,14 @@ main {
 
 .step-box {
    width: 90%;
-   margin: 0px 0px 20px 0px;
    margin: 0 auto;
+   margin-bottom: 20px;
 }
 
 .step-box:last-child {
   width: 90%;
-  margin-bottom: 50px;
   margin: 0 auto;
+  margin-bottom: 50px;
 }
 
 .step-num {
